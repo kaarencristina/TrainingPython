@@ -1,6 +1,7 @@
 import os
 
 
+
 def exibir_nome_do_programa():
     print("Sabor-express")
 
@@ -32,10 +33,9 @@ def escolher_opcao():
         finalizar_app()
     
 def main():
-    exibir_nome_do_programa();
-
-if __name__=='__main__':
-    main()
     exibir_nome_do_programa()
     exibir_opcoes()
     escolher_opcao()
+
+if __name__=='__main__':
+    main()
