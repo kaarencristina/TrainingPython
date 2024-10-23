@@ -26,3 +26,10 @@ This project aims to demonstrate how to automate form filling on a web page usin
 
 
 ___________________________________________________________________________________________
+
+# Automation to Merge PDFs
+
+## Description
+This project aims to automate the process of merging PDF files using Python. By utilizing the `PyPDF2` library, the project allows for combining multiple PDF files into a single document, facilitating organization and document sharing.
+
+
